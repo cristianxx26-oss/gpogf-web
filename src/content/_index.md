@@ -1,92 +1,92 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus.
-  image: /images/banner-art.svg
+  title: Marketing digital que impulsa marcas y atrae clientes
+  content: Creamos estrategias, campañas y experiencias web para conectar tu marca con las personas adecuadas. Combinamos creatividad y datos reales para orientar cada inversión y convertir el interés en oportunidades comerciales.
+  image: /images/18.jpg
   button:
-    label: "Contact Us"
+    label: "Hablemos de tu proyecto"
     link: "/contact"
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Ventajas de trabajar con GPOGF
   features:
-  - name: "Clean Code"
+  - name: "Estrategia basada en datos"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "Definimos objetivos claros y analizamos resultados reales para orientar cada decisión"
+  - name: "Contenido para redes sociales"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "Diseñamos piezas visuales y mensajes que presentan tu oferta con claridad y coherencia de marca"
+  - name: "Acompañamiento cercano"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
+    content: "Trabajamos en conjunto para ajustar la estrategia a las necesidades y objetivos de cada marca"
+  - name: "Inversión publicitaria eficiente"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+    content: "Priorizamos las acciones con mayor potencial para generar oportunidades y aprovechar mejor cada peso del presupuesto"
+  - name: "Optimización continua"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
+    content: "Analizamos el rendimiento de las campañas y ajustamos la estrategia según los resultados"
+  - name: "Experiencias digitales"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Creamos experiencias web claras y adaptables para presentar tu marca y facilitar el contacto"
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Estrategia de marketing digital basada en datos."
+    content: "Planificamos y optimizamos campañas con objetivos claros y datos reales para atraer prospectos y convertir la inversión en oportunidades comerciales."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/17.jpg"
+      - "/images/20.jpg"
+      - "/images/18.jpg"
     button:
       enable: true
-      label: Check it out
+      label:  Conoce el servicio
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Diseño y contenido para redes sociales"
+    content: "Creamos piezas visuales y mensajes que presentan tu oferta con claridad y mantienen una comunicación coherente con tu marca."
     images: 
-      - "/images/service-slide-1.png"
+      - "/images/18.jpg"
     button:
       enable: true
-      label: Check it out
+      label:  Conoce el servicio
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Diseño y desarrollo de sitios web"
+    content: "Creamos sitios web profesionales y adaptables que presentan tus servicios con claridad y facilitan el contacto con nuevos clientes."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/18.jpg"
+    
+  
     button:
       enable: true
-      label: Check it out
+      label:  Conoce el servicio
+
       link: /contact
 
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Identidad visual y diseño de marca"
+    content: "Desarrollamos sistemas visuales coherentes que ayudan a las marcas a comunicar su personalidad y diferenciarse en sus canales digitales."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/19.jpg"
+    
     button:
       enable: true
-      label: Check it out
+      label: Conoce el servicio
       link: /contact
 
 # workflow
 workflow: 
-  title: "Experience the best workflow with us"
-  image: "/images/banner.svg"
-  description: ""
+  title: "De la estrategia a los resultados"
+  image: "/images/17.jpg"
+  description: "Definimos objetivos, planificamos las acciones y medimos el desempeño para mejorar cada etapa."
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: '/images/cta.svg'
+  title: "¿Listo para impulsar tu marca?"
+  content: "Cuéntanos qué quieres lograr. Te ayudaremos a convertir tus objetivos en una estrategia digital clara, medible y alineada con tu negocio."
+  image: "/images/20.jpg"
   button:
     enable: true
-    label: "Contact Us"
+    label: "Hablemos de tu proyecto"
     link: "/contact"
 ---
