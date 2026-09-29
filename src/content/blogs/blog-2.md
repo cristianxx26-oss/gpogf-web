@@ -4,7 +4,7 @@ description: "Diseño de una pieza promocional para presentar espacios
   comerciales y departamentos en redes sociales"
 image: "/images/20.jpg"
 date: 2026-05-04T05:00:00.000Z
-draft: false
+draft: true
 ---
 ## Diseño de campaña para redes sociales
 
