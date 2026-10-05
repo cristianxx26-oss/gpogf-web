@@ -20,13 +20,18 @@ function Pricing({ data }) {
               >
                 <div className="card text-center">
                   <h4 className="h5">{plan.title}</h4>
-                  <div className="mt-5">
-                    <span className="text-5xl text-text-dark">
-                      ${plan.price}
-                    </span>
-                    <span>/ {plan.type}</span>
-                  </div>
-                  <h5 className="mt-2 font-normal text-text h6">
+                  {plan.price && (
+  <div className="mt-5">
+    <span className="text-5xl text-text-dark">${plan.price}</span>
+    <span>/ {plan.type}</span>
+  </div>
+)}
+                    
+                      
+                    
+                    
+                
+              
                     {plan.subtitle}
                   </h5>
                   <ul className="mt-5">
