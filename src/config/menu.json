@@ -23,15 +23,15 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "GPOGF",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Inicio",
+          "url": "/"
         },
         {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "Blog",
+          "url": "/blogs"
         }
       ]
     },
