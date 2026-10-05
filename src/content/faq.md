@@ -17,6 +17,6 @@ faqs:
 - title: ¿Qué necesito para empezar un proyecto con GPOGF?
   answer: Cuéntanos qué quieres lograr, a quién quieres llegar y qué servicio te interesa. Con esa información conversamos sobre el mejor siguiente paso para tu proyecto.
 
-- title: What is a product key?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: ¿GPOGF puede ayudar a promocionar una aplicación?
+  answer: Sí. Planificamos campañas para dar visibilidad a tu app y atraer usuarios interesados, definiendo objetivos, audiencia y medición según el proyecto.
 ---
