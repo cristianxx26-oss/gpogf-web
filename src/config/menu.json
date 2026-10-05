@@ -36,19 +36,19 @@
       ]
     },
     {
-      "name": "Product",
+      "name": "Servicios",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
+          "text": "Marketing digital",
           "url": "/pricing"
+        },
+        {
+          "text": "Casos de éxito",
+          "url": "/blogs"
+        },
+        {
+          "text": "Contacto",
+          "url": "/contact"
         }
       ]
     },
