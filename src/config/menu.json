@@ -53,19 +53,19 @@
       ]
     },
     {
-      "name": "Support",
+      "name": "Más información",
       "menu": [
         {
-          "text": "FAQ",
+          "text": "Preguntas frecuentes",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
-          "url": "#"
+          "text": "Contacto",
+          "url": "/contact"
         },
         {
-          "text": "Terms & Conditions",
-          "url": "#"
+          "text": "Inicio",
+          "url": "/"
         }
       ]
     }
