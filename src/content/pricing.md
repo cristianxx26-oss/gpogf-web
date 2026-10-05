@@ -1,18 +1,18 @@
 ---
-title: Pricing
+title: Estrategia, campañas y diseño para tu marca
 layout: pricing
 draft: false
 plans:
-- title: Basic Plan
-  subtitle: Best For Small Individuals
-  price: 49
-  type: month
+- title: Estrategia y campañas digitales
+  subtitle: Más de 10 años gestionando campañas en Meta y Google, con foco en objetivos y resultados
+  price: null
+  type: null
   features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
+    - Planeación de campañas según los objetivos del negocio
+    - Gestión de campañas en Meta, Google, Whatssap
+    - Medición y optimización con Google Analytics
   button:
-    label: Get started for free
+    label: Hablemos de tu campaña
     link: "/contact"
 
 - title: Professional Plan
