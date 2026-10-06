@@ -15,19 +15,19 @@ plans:
     label: Hablemos de tu campaña
     link: "/contact"
 
-- title: Professional Plan
-  subtitle: Best For Professionals
-  price: 69
-  type: month
+- title: Contenido e identidad para redes sociales
+  subtitle: Piezas visuales y mensajes claros para presentar tu oferta con coherencia de marca
+  price: null
+  type: null
   recommended: true
   features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
-    - Cloud Service
-    - Best Dashboard
+    - Contenido para redes sociales
+    - Diseño de marca e identidad visual
+    - Creatividades alineadas con tus campañas
+    - Mensajes enfocados en tu audiencia
+    - Formatos adaptados a cada canal
   button:
-    label: Get started
+    label: Hablemos de tu marca
     link: "/contact"
 
 - title: Business Plan
